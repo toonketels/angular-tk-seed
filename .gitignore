@@ -3,3 +3,4 @@ src/vendor
 src/scss/vendor
 build/
 src/config/config.json
+.sass-cache
