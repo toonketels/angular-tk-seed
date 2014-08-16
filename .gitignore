@@ -1,0 +1,5 @@
+node_modules
+src/vendor
+src/scss/vendor
+build/
+src/config/config.json

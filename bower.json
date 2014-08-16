@@ -1,0 +1,24 @@
+{
+  "name": "autodesk_ignite",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-mocks": "~1.2.19",
+    "angular-route": "~1.2.19",
+    "angular-ui-router": "~0.2.10",
+    "angular": "~1.2.19",
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1",
+    "requirejs-text": "~2.0.12",
+    "requirejs": "~2.1.14",
+    "underscore": "~1.6.0",
+    "requirejs-plugins": "~1.0.2"
+  }
+}
