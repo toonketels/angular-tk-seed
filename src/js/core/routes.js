@@ -11,8 +11,6 @@ define([
 ], function(app, _, headerTpl, homeTpl, footerTpl, notFoundTpl) {
     'use strict';
 
-    console.log("routes configured")
-
     app.config([
         '$urlRouterProvider', '$stateProvider',
         function($urlRouterProvider, $stateProvider) {
