@@ -24,7 +24,12 @@
     "mocha": "~1.21.4",
     "karma-mocha": "~0.1.7",
     "grunt-contrib-sass": "~0.7.4",
-    "grunt-bump": "0.0.15"
+    "grunt-bump": "0.0.15",
+    "requirejs": "~2.1.14",
+    "karma-requirejs": "~0.2.2",
+    "karma-chrome-launcher": "~0.1.4",
+    "chai": "~1.9.1",
+    "karma-mocha-reporter": "~0.2.8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
