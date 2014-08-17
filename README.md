@@ -28,3 +28,8 @@ To create a new production release:
 To serve a build:
 
 	grunt serveBuild --env=prod
+
+
+To run unit tests:
+
+	karma start
