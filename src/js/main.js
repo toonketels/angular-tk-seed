@@ -1,6 +1,6 @@
 require.config({
     urlArgs: 'bust=' + (new Date()).getTime(),
-    deps: ['bootstrap'],
+    deps: ['boot'],
     paths: {
         jquery: '../vendor/jquery/dist/jquery',
         underscore: '../vendor/lodash/dist/lodash.underscore',
