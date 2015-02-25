@@ -1,6 +1,18 @@
 Angular tk seed
 ======================================
 
+## Install
+
+Install all dependencies:
+
+    npm install
+    bower install
+
+
+
+## Play
+
+
 To spin up a development server:
 
 	grunt
